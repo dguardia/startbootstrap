@@ -1,5 +1,6 @@
 Start Bootstrap
 ==============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dguardia/startbootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A growing library of HTML Starter Templates for [Bootstrap 3](http://getbootstrap.com/)
 
